@@ -6,3 +6,5 @@ __backend means server side programing__\
 ~~mongodb is used for database~~\
 |sr.no|name of topioc|date of work|Remarks|
 |---|---|---|---|
+|1| introduction to node.js| 20-09-2025| 25|
+|2| introduction to mongoDB| 20-09-2025|30|
